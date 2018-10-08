@@ -31,8 +31,7 @@ Testing is an important part of the development process and many organizations p
 
 ![screen shot 2018-10-08 at 5 01 02 pm](https://user-images.githubusercontent.com/28276138/46634047-a951ca80-cb1d-11e8-9652-ccef93b93fea.png)
 
-
-
+![screen shot 2018-10-08 at 5 15 55 pm](https://user-images.githubusercontent.com/28276138/46634110-dd2cf000-cb1d-11e8-8b51-07f8b091c161.png)
 
 
 ## Required
